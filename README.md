@@ -72,7 +72,7 @@ A website designed to introduce cybersecurity tools, their purposes and their pr
 
 My personal website showcasing my background, technical interests, projects and professional journey.
 
-🔗 [Visit My Portfolio](https://jeevan-portfolio-six.vercel.app/)
+🔗 [Visit My Portfolio](https://jeevan-r18.github.io/jeevan-portfolio/)
 
 ---
 
