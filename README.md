@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Jeevan R
 
-### 🔐 Cybersecurity Student | Ethical Hacking Enthusiast
+### 🔐 Jeevan R | Cybersecurity Student | Ethical Hacking | Penetration Testing | Cybersecurity Projects
 
 Welcome to my GitHub profile!
 
@@ -86,7 +86,7 @@ My personal website showcasing my background, technical interests, projects and 
 
 ### 🌐 Connect With Me
 
-- 🌍 Portfolio: https://jeevan-portfolio-six.vercel.app/
+- 🌍 Portfolio: https://jeevan-r18.github.io/jeevan-portfolio/
 - 💼 LinkedIn: https://www.linkedin.com/in/jeevanr-raju-79b921369/
 - 🐙 GitHub: https://github.com/Jeevan-R18
 - 📧 Email: jeevanrraju@gmail.com
